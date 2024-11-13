@@ -1,0 +1,6 @@
+Config = {
+    namescript = "SaMuRaiHUB",
+    logoscript = "99534852554471",
+    tacgia = "X.QUYỀN"
+} 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaMuRaiHUB/BloxFruits/main/redz9999"))() 
